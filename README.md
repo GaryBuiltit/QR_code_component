@@ -20,7 +20,7 @@ QR code component challenge from Front End Mentor. Design provided by FEM and al
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://garybuiltit.github.io/QR_code_component/)
 
 ### Built with
 
